@@ -1,7 +1,7 @@
 # PySpark Data Cleaning Project
 
 ## Overview
-This project demonstrates real-world data cleaning and generate report using PySpark on sample sales data.
+This project cleans raw sales data and generates summary reports using PySpark.
 
 ## Problems in Raw Data
 - Extra spaces in text columns
@@ -38,3 +38,4 @@ Screenshots are available in the screenshots folder.
 
 ## Note: 
 Notebook contains output cells for demonstration purposes.
+
