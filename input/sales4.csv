@@ -1,0 +1,12 @@
+order_id, customer_name , product , order_date , amount , region
+1, Alice , Laptop , 2023-01-15 , 55000 , North
+2, Bob,Mobile,15-02-2023,30000,South
+3, Carol , Tablet , 2023/03/10 , NULL , East
+4, David, Laptop, 2023-13-01 , 65000 , West
+5, Eve ,Mobile , 2023-04-05, ERROR , North
+6, Frank, Laptop, 05-05-2023 , 72000, South
+7, Grace,Tablet,2023-06-18,48000,East
+7, Grace,Tablet,2023-06-18,48000,East
+8, Heidi , Mobile , , 50000 , West
+9, Ivan,Laptop,2023-07-22,"85,000",North
+10, Judy , Tablet , 2023-08-30 ,  , South

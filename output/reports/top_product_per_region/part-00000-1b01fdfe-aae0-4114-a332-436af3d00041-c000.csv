@@ -1,0 +1,5 @@
+region,product,total_sale,rank
+East,Tablet,48000.0,1
+North,Laptop,140000.0,1
+South,Laptop,72000.0,1
+West,Laptop,65000.0,1

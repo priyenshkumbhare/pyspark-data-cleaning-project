@@ -1,0 +1,7 @@
+order_id,customer_name,product,order_date,amount,region
+1,Alice,Laptop,2023-01-15,55000.0,North
+2,Bob,Mobile,2023-02-15,30000.0,South
+4,David,Laptop,2023-01-13,65000.0,West
+6,Frank,Laptop,2023-05-05,72000.0,South
+7,Grace,Tablet,2023-06-18,48000.0,East
+9,Ivan,Laptop,2023-07-22,85000.0,North
